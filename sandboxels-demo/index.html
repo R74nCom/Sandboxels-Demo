@@ -16628,7 +16628,7 @@ window.onload = function() {
 <script>
 	function demoPopup() {
 		promptText("You're using the demo version of Sandboxels! For all features and elements, use the full version for free on sandboxels.R74n.com. Enjoy!", ()=>{}, "Important!!")
-		document.getElementById("promptMenuText").innerHTML = "You're using the demo version of Sandboxels! For all features and elements, use the full version for free on <a href='https://sandboxels.R74n.com'>sandboxels.R74n.com</a>. Enjoy!"
+		document.getElementById("promptMenuText").innerHTML = "You're using the demo version of Sandboxels! For all features and elements, use the full version for free on <a target='_blank' href='https://sandboxels.R74n.com'>sandboxels.R74n.com</a>. Enjoy!"
 	}
 	lastDemoLog = new Date();
 	function demoLog() {
@@ -16641,7 +16641,7 @@ window.onload = function() {
 	window.addEventListener("load",()=>{
 		demoPopup();
 	})
-	setInterval(demoLog,60000)
+	setInterval(demoLog,120000)
 </script>
 <style>
 	button.disabled {

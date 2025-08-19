@@ -10,4 +10,4 @@ The full version of Sandboxels can be played for free on [sandboxels.R74n.com](h
 * [Vercel](https://sandboxels-demo.vercel.app/)
 * [Websim](https://sandboxels.on.websim.com/)
 * [CodePen](https://codepen.io/R74nCom/full/yyYKgZM)
-* [PlayCode](https://sandboxelsdemo.playcode.io/)
+* [PlayCode](https://preview-sandboxelsdemo.playcode.io/)

@@ -8,3 +8,4 @@ The full version of Sandboxels can be played for free on [sandboxels.R74n.com](h
 * [GitHub.io](https://r74ncom.github.io/Sandboxels-Demo/sandboxels-demo/)
 * [OpenProcessing](https://openprocessing.org/sketch/2642991)
 * [Vercel](https://sandboxels-demo.vercel.app/)
+* [Websim](https://sandboxels.on.websim.com/)
